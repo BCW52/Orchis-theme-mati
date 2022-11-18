@@ -6,7 +6,7 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Orchis-Light-Compact
-MetacityTheme=Orchis-Dark-Compact
-IconTheme=ePapirus-Dark
-CursorTheme="Oreo Blue Cursors"
+MetacityTheme=Orchis-Light-Compact
+IconTheme=ePapirus
+CursorTheme=Oreo Blue Cursors
 ButtonLayout=close,minimize,maximize:menu

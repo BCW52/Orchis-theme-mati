@@ -5,8 +5,8 @@ Comment=An Materia Gtk+ theme based on Elegant Design
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Orchis
+GtkTheme=Orchis-Dark-Compact
 MetacityTheme=Orchis-Dark-Compact
 IconTheme=ePapirus-Dark
-CursorTheme="Oreo Blue Cursors"
+CursorTheme=Oreo Blue Cursors
 ButtonLayout=close,minimize,maximize:menu
