@@ -8,5 +8,5 @@ Encoding=UTF-8
 GtkTheme=Orchis-Dark
 MetacityTheme=Orchis-Dark
 IconTheme=ePapirus-Dark
-CursorTheme=Oreo Blue Cursors
+CursorTheme=oreo_blue_cursors
 ButtonLayout=close,minimize,maximize:menu
